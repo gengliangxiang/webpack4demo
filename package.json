@@ -76,7 +76,7 @@
 		"core-js": "^3.1.4",
 		"react": "^16.8.6",
 		"react-addons-test-utils": "^15.6.2",
-		"react-dev-utils": "^5.0.3",
+		"react-dev-utils": "^11.0.4",
 		"react-dom": "^16.8.6",
 		"react-hot-loader": "^4.12.11",
 		"react-loading": "^2.0.3",
